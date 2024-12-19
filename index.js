@@ -1,4 +1,3 @@
-document.addEventListener("DOMContentLoaded", () => {
     const homeLink = document.getElementById("home");
     const searchLink = document.getElementById("search-link");
     const mainContent = document.getElementById("main-content");
@@ -191,4 +190,3 @@ document.addEventListener("DOMContentLoaded", () => {
     renderHome();
     searchLink.addEventListener("click", renderSearchPage);
     homeLink.addEventListener("click", renderHome);
-});

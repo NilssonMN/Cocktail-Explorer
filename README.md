@@ -1,6 +1,6 @@
 # 🍹 Cocktail Explorer
 
-A simple web application built with **Vanilla JavaScript, HTML, and CSS** that lets users explore and search for cocktails.
+A web application built with **Vanilla JavaScript, HTML, and CSS** that lets users explore and search for cocktails.
 
 ---
 
